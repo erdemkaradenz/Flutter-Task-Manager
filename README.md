@@ -1,6 +1,8 @@
 📋 Flutter Task Manager
 
-A simple, user-friendly, and modern task management application. Built with Flutter, it runs cross-platform (Android / iOS) and helps you organize your daily to-do lists efficiently.📌 Features
+A simple, user-friendly, and modern task management application. Built with Flutter, it runs cross-platform (Android / iOS) and helps you organize your daily to-do lists efficiently.
+
+📌 Features:
 
 ✅ Add Tasks
 
