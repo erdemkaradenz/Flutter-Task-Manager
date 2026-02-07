@@ -1,8 +1,8 @@
-📋 Flutter Task Manager
+## 📋 Flutter Task Manager
 
 A simple, user-friendly, and modern task management application. Built with Flutter, it runs cross-platform (Android / iOS) and helps you organize your daily to-do lists efficiently.
 
-📌 Features:
+## 📌 Features:
 
 ✅ Add Tasks
 
@@ -18,7 +18,7 @@ A simple, user-friendly, and modern task management application. Built with Flut
 
 ⚙️ These core features are designed to improve productivity and provide a smooth user experience.
 
-## 🧠 Technologies
+## 🧠 Technologies:
 
 This project is built using the following technologies:
 
@@ -30,7 +30,7 @@ This project is built using the following technologies:
 
 Note: You can update this section based on the actual state management and database solution used in the project.
 
-🚀 Getting Started
+## 🚀 Getting Started:
 
 To run this project locally, follow these steps:
 
@@ -45,5 +45,3 @@ flutter pub get
 
 4️⃣ Run the application
 flutter run
-
-1️⃣ Clone the repository
