@@ -1,16 +1,47 @@
-# flutter_todolist
+📋 Flutter Task Manager
 
-A new Flutter project.
+A simple, user-friendly, and modern task management application. Built with Flutter, it runs cross-platform (Android / iOS) and helps you organize your daily to-do lists efficiently.📌 Features
 
-## Getting Started
+✅ Add Tasks
 
-This project is a starting point for a Flutter application.
+✏️ Edit Tasks
 
-A few resources to get you started if this is your first Flutter project:
+🗑️ Delete Tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📅 List Tasks by Date
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👁️ View Task Details
+
+🌙 Easily extensible architecture for future features
+
+⚙️ These core features are designed to improve productivity and provide a smooth user experience.
+
+## 🧠 Technologies
+
+This project is built using the following technologies:
+
+- **Flutter** — Cross-platform UI framework  
+- **Dart** — Programming language  
+- **setState / Provider** — State management for UI updates  
+- **REST API (MockAPI)** — Used for performing CRUD operations  
+- **HTTP** — For API communication and data fetching
+
+Note: You can update this section based on the actual state management and database solution used in the project.
+
+🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+1️⃣ Clone the repository
+git clone https://github.com/erdemkaradenz/Flutter-Task-Manager.git
+
+2️⃣ Navigate to the project directory
+cd Flutter-Task-Manager
+
+3️⃣ Install dependencies
+flutter pub get
+
+4️⃣ Run the application
+flutter run
+
+1️⃣ Clone the repository
