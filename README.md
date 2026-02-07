@@ -34,14 +34,14 @@ Note: You can update this section based on the actual state management and datab
 
 To run this project locally, follow these steps:
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository: 
 git clone https://github.com/erdemkaradenz/Flutter-Task-Manager.git
 
-2️⃣ Navigate to the project directory
+2️⃣ Navigate to the project directory: 
 cd Flutter-Task-Manager
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies: 
 flutter pub get
 
-4️⃣ Run the application
+4️⃣ Run the application: 
 flutter run
